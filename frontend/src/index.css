@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+    @apply bg-orange-50/30 text-gray-800 min-h-screen antialiased;
+}
